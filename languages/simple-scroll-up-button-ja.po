@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-31 13:59+0200\n"
+"PO-Revision-Date: 2020-07-31 14:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: WordPress Forest\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/simple-scroll-up-button-display.php:14
+msgid "What is this?"
+msgstr "Simple Scroll Up Buttonとは？"
+
+#: admin/simple-scroll-up-button-display.php:17
+msgid "This plugin adds a scroll up button at the bottom right side on your page."
+msgstr "このプラグインは、ページの右下にトップへスクロールするボタンを追加します。"
+
+#: admin/simple-scroll-up-button-display.php:28
+#: admin/simple-scroll-up-button.php:38 admin/simple-scroll-up-button.php:39
+msgid "Settings"
+msgstr "設定"
+
+#: admin/simple-scroll-up-button-display.php:38
+msgid "Show the button"
+msgstr "ボタンを表示する"
+
+#: admin/simple-scroll-up-button-display.php:43
+msgid "Color"
+msgstr "カラー"
+
+#: admin/simple-scroll-up-button-display.php:47
+msgid "Save"
+msgstr "保存"
+
+#: admin/simple-scroll-up-button-display.php:68
+msgid "Has been saved!"
+msgstr "保存しました！"
+
+#: admin/simple-scroll-up-button-display.php:74
+msgid "Failed to save!"
+msgstr "保存できませんでした！"
